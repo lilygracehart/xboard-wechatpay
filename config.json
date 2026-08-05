@@ -1,0 +1,8 @@
+{
+    "name": "WeChat Pay Native",
+    "code": "wechatpay",
+    "type": "payment",
+    "version": "1.0.0",
+    "description": "微信支付 Native APIv3 插件（普通商户）",
+    "author": "XBoard Community"
+}

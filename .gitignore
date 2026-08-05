@@ -1,0 +1,15 @@
+.DS_Store
+.idea/
+.vscode/
+.env
+.env.*
+*.log
+vendor/
+node_modules/
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+*.cer
+*.zip
